@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">A passionate frontend developer in Canada</h3>
+<h1 align="center">Hey there 👋, I'm Gabriel</h1>
+<h3 align="center">A passionate full stack web developer in Canada</h3>
 
 - 🔭 I’m currently working on [Food Order App](https://github.com/GabrielOliveira-1/food-order-app)
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **games recommendation**
+- 💬 Ask me about **games recommendation 🎮**
 
 - 📫 How to reach me **gabriel.d.oliveira1@hotmail.com**
 
