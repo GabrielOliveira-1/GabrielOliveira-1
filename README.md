@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Food Order App](https://github.com/GabrielOliveira-1/food-order-app)
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **games recommendation**
 
